@@ -1,0 +1,9 @@
+.product-price {
+    font-size: 14px;
+    text-align: left;
+}
+
+.product-price span {
+    margin-left: 5px;
+    color: red;
+}
